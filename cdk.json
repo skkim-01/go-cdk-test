@@ -1,5 +1,5 @@
 {
-  "app": "go mod tidy && go run cdkmain.go",
+  "app": "go mod download && go run cdkmain.go",
   "watch": {
     "include": [
       "**"
